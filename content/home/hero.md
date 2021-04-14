@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academia"
+title = "Rashid Baset"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "usernum2.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,7 +17,7 @@ hero_media = "user-2.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#fff"
+  #color = "#fff"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
@@ -39,9 +39,14 @@ hero_media = "user-2.jpg"
   
 [btn_alt]
   url = "#contact"
-  label = "Contact me"
+  label = "Blog"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## My name is **Rashid Baset** and I'm a **Customer Service** professional specializing in solving customer problems. 
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+
+I am a **Customer Service Technical Specialist** with strengths in communicating technical concepts to expert and lay audiences and quantifying and communicating uncertainty.
+
+I am also a **Customer Service Advocate** with considerable experience learning systems, technologies, and processes, which translates beautifully to solving problems, communicating effectively and even writing code.
+
+**R-Curious** is a blog I made that explores R language using Machine Learning to drive product development. 

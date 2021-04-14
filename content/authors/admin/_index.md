@@ -1,55 +1,51 @@
 ---
 authors:
-- admin
+- Rashid Baset
 avatar_image: user-full.png
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My interests include customer centricity, solving customer problems, data science, machine learning/natural language processing. 
 btn:
 - label: Download Resume
-  url: https://sourcethemes.com/academic/docs/install/
+  url: https://drive.google.com/file/d/1vdXzuT-0k-1J9HTujJwVXLdSwEC9rb2G/view?usp=sharing
 display_education: false
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Full-Time Data Science
+    institution: Flatiron School 
+    year: 2020
+  - course: BSc in Business Administration, Management 
+    institution: Wayne State University
+    year: 2013
+email: "rashid.baset@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Michael Vahn
+- Customer centricity
+- Solving customer problems 
+- Data science
+name: Rashid Baset
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Flatiron School - Data Science Bootcamp
+  url: https://flatironschool.com/alumni/
+role: Customer Service Specialist, Data Scientist  
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/RashidBaset
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rbaset5
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/rbaset
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As a Customer Service and Data Science professional with strengths in  data cleaning, modeling, and exploratory data analysis (EDA) I enjoy quantifying and communicating uncertainty using skills accrued in data acquisition, statistical analysis, machine learning, deep learning, and NLP. I am an analyst with a background in customer service, developing solutions through solid team building and project management. 
 
-![reviews](../../img/certifacates.jpg)
+I have logged more than 3,000 hours as an experienced, early-mid career level, customer service specialist solving problems with customers delivering empathy, kindness, respect and product knowledge with considerable experience learning systems, technologies, and processes, which translates beautifully to customer success or writing code and solving challenging problems collaboratively, and is driven by contributing to the bottom line for more satisfied customers and end users.
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+My research interests are in customer centricity, solving customer problems and data science.
