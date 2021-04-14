@@ -6,7 +6,7 @@ disqusShortname: ''
 theme: academia-hugo
 enableGitInfo: no
 defaultContentLanguage: en
-hasCJKLanguage: no
+hasCJKLanguage: nogi
 defaultContentLanguageInSubdir: no
 removePathAccents: yes
 paginate: 10

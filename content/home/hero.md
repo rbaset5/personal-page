@@ -45,8 +45,8 @@ hero_media = "usernum2.jpg"
 ## My name is **Rashid Baset** and I'm a **Customer Service** professional specializing in solving customer problems. 
 
 
-I am a **Customer Service Technical Specialist** with strengths in communicating technical concepts to expert and lay audiences and quantifying and communicating uncertainty.
+I am a **Customer Success Advocate** with strengths in communicating technical concepts to expert and lay audiences and quantifying and communicating uncertainty.
 
-I am also a **Customer Service Advocate** with considerable experience learning systems, technologies, and processes, which translates beautifully to solving problems, communicating effectively and even writing code.
+I am also a **Customer Service Technician** with considerable experience learning systems, technologies, and processes, which translates beautifully to solving problems, communicating effectively and even writing code.
 
-**R-Curious** is a blog I made that explores R language using Machine Learning to drive product development. 
+**R-Curious** is a blog I made that explores R language using machine learning to learn and analyze customer complaints without prior industry knowledge.
